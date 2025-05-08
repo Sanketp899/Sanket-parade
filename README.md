@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0C1E2C&height=180&section=header&text=Welcome%20to%20Sanket's%20World!%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn" alt="Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0C1E2C&height=180&section=header&text=Hi%20there!%20I'm%20Sanket%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn" alt="Banner" width="100%" />
 </p>
 
 <!-- About Me -->
